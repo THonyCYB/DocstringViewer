@@ -1,0 +1,9 @@
+TestClass: Questa è una classe di test.
+
+another_function: Questa è un'altra funzione di test.
+
+test_method: Questo è un metodo di test.
+
+handleClick: handleClick func {
+}
+
